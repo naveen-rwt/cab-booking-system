@@ -94,8 +94,8 @@ Specify your license here (e.g., MIT, GPL) or mention if it's proprietary.
  
 For queries, suggestions, or contributions, please contact: 
  
-- Your Name  
-- Email: your.email@example.com  
+- naveen rawat 
+- Email: nabiirawat001@gmail.com
 - GitHub: [naveen-rwt](https://github.com/naveen-rwt) 
  
 --- 
